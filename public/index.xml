@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jkirkpatrick</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Jkirkpatrick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Follow me on Twitter for updates and insights.&#xA;Check out my GitHub profile for my projects and contributions.&#xA;Connect with me on LinkedIn for professional networking.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Clara&#xD;Link to heading&#xD;Clara is an extensible AI assistant that seamlessly interacts with various plugins to fulfill complex tasks, all through natural language conversations powered by OpenAI.&#xA;Reef-Mon&#xD;Link to heading&#xD;Reef-Mon is a simple tool to monitor the status of a Reef using Go, InfluxDB, and a Raspberry PI.&#xA;Serverless File Upload&#xD;Link to heading&#xD;Serverless File Upload is a File upload system with burn after read capabilities built on top of AWS using the chalice framework.</description>
+    </item>
+  </channel>
+</rss>
